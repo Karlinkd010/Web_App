@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 14,
+    "editor.suggestFontSize": 12,
+    "markdown.preview.fontSize": 0,
+    "terminal.integrated.fontSize": 12,
+    "window.zoomLevel": 0,
+    "workbench.sideBar.location": "left",
+    "editor.mouseWheelZoom": true
+}

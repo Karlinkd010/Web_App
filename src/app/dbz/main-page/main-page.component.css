@@ -1,0 +1,11 @@
+.row{
+    display: flex;
+}
+.col{
+    margin-right: 10px;
+    flex-grow: 1;
+}
+input{
+    display: block;
+    margin: 5px;
+}
